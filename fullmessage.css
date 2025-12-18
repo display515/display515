@@ -9,7 +9,7 @@ body{
 }
 
 .Frame{
-    width: 90%;
+    width: 60%;
     min-height: 700px;
     margin: auto;
     position: relative;
@@ -75,3 +75,4 @@ p.third{
     border-radius: 20px;
 
 }
+
